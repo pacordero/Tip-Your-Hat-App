@@ -1,2 +1,2 @@
 # Tip-Your-Hat-App
-Simple Android app about tipping. 
+Tipping calculator android app
